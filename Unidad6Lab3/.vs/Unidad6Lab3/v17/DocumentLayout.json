@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488ABBDA-BBD2-4752-9678-CBD9C8ECA9C5}|Alta\\Alta.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\alta\\alta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488ABBDA-BBD2-4752-9678-CBD9C8ECA9C5}|Alta\\Alta.csproj|solutionrelative:alta\\alta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDEC7EF-091E-4052-9A43-F4FA73811B74}|Negocio\\Negocio.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\negocio\\alumnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDEC7EF-091E-4052-9A43-F4FA73811B74}|Negocio\\Negocio.csproj|solutionrelative:negocio\\alumnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB018E5-57D1-47E4-B25B-D92DC3227B08}|ClienteServicios\\ClienteServicios.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\clienteservicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB018E5-57D1-47E4-B25B-D92DC3227B08}|ClienteServicios\\ClienteServicios.csproj|solutionrelative:clienteservicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488ABBDA-BBD2-4752-9678-CBD9C8ECA9C5}|Alta\\Alta.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\alta\\alta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488ABBDA-BBD2-4752-9678-CBD9C8ECA9C5}|Alta\\Alta.csproj|solutionrelative:alta\\alta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488ABBDA-BBD2-4752-9678-CBD9C8ECA9C5}|Alta\\Alta.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\alta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488ABBDA-BBD2-4752-9678-CBD9C8ECA9C5}|Alta\\Alta.csproj|solutionrelative:alta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E25F4E-E382-4814-BFB4-1BCEB8314246}|Entidades\\Entidades.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E25F4E-E382-4814-BFB4-1BCEB8314246}|Entidades\\Entidades.csproj|solutionrelative:entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB018E5-57D1-47E4-B25B-D92DC3227B08}|ClienteServicios\\ClienteServicios.csproj|C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\clienteservicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFB018E5-57D1-47E4-B25B-D92DC3227B08}|ClienteServicios\\ClienteServicios.csproj|solutionrelative:clienteservicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488ABBDA-BBD2-4752-9678-CBD9C8ECA9C5}|Alta\\Alta.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\alta\\alta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{488ABBDA-BBD2-4752-9678-CBD9C8ECA9C5}|Alta\\Alta.csproj|solutionrelative:alta\\alta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDEC7EF-091E-4052-9A43-F4FA73811B74}|Negocio\\Negocio.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDEC7EF-091E-4052-9A43-F4FA73811B74}|Negocio\\Negocio.csproj|solutionrelative:negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDEC7EF-091E-4052-9A43-F4FA73811B74}|Negocio\\Negocio.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\negocio\\negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BDEC7EF-091E-4052-9A43-F4FA73811B74}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDEC7EF-091E-4052-9A43-F4FA73811B74}|Negocio\\Negocio.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\negocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDEC7EF-091E-4052-9A43-F4FA73811B74}|Negocio\\Negocio.csproj|solutionrelative:negocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E25F4E-E382-4814-BFB4-1BCEB8314246}|Entidades\\Entidades.csproj|c:\\users\\usuario\\source\\repos\\unidad6lab3\\entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48E25F4E-E382-4814-BFB4-1BCEB8314246}|Entidades\\Entidades.csproj|solutionrelative:entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Alta\\Program.cs",
+              "RelativeDocumentMoniker": "Alta\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Alta\\Program.cs",
+              "RelativeToolTip": "Alta\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:04:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Alta\\Alta.cs",
+              "RelativeDocumentMoniker": "Alta\\Alta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Alta\\Alta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Alta\\Alta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:20:02.94Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Alta\\Alta.Designer.cs",
+              "RelativeDocumentMoniker": "Alta\\Alta.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Alta\\Alta.Designer.cs",
+              "RelativeToolTip": "Alta\\Alta.Designer.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAQwKMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:18:34.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Alta\\Alta.cs",
+              "RelativeDocumentMoniker": "Alta\\Alta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Alta\\Alta.cs",
+              "RelativeToolTip": "Alta\\Alta.cs",
+              "ViewState": "AQIAAEkAAADAzMzMzMwmwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:16:58.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\ClienteServicios\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteServicios\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\ClienteServicios\\Form1.cs",
+              "RelativeToolTip": "ClienteServicios\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAjwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:21:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Negocio\\AlumnoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\AlumnoNegocio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Negocio\\AlumnoNegocio.cs",
+              "RelativeToolTip": "Negocio\\AlumnoNegocio.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:54:01.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Negocio\\Conexion.cs",
+              "RelativeDocumentMoniker": "Negocio\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Negocio\\Conexion.cs",
+              "RelativeToolTip": "Negocio\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:46:54.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Entidades\\Alumno.cs",
+              "RelativeDocumentMoniker": "Entidades\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Entidades\\Alumno.cs",
+              "RelativeToolTip": "Entidades\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:41:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\ClienteServicios\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteServicios\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\ClienteServicios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteServicios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:30:47.298Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Negocio.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Negocio\\Negocio.csproj",
+              "RelativeDocumentMoniker": "Negocio\\Negocio.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Negocio\\Negocio.csproj",
+              "RelativeToolTip": "Negocio\\Negocio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T14:45:16.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Negocio\\Class1.cs",
+              "RelativeDocumentMoniker": "Negocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Negocio\\Class1.cs",
+              "RelativeToolTip": "Negocio\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:41:22.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entidades.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Entidades\\Entidades.csproj",
+              "RelativeDocumentMoniker": "Entidades\\Entidades.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad6Lab3\\Entidades\\Entidades.csproj",
+              "RelativeToolTip": "Entidades\\Entidades.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T14:36:48.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|c:\\users\\usuario\\tecnologiasdedesarrollodesoftwareide_2024\\lab2cap1\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|solutionrelative:lab2cap1\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|c:\\users\\usuario\\tecnologiasdedesarrollodesoftwareide_2024\\lab2cap1\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|solutionrelative:lab2cap1\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|c:\\users\\usuario\\tecnologiasdedesarrollodesoftwareide_2024\\lab2cap1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|solutionrelative:lab2cap1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|c:\\users\\usuario\\tecnologiasdedesarrollodesoftwareide_2024\\lab2cap1\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|solutionrelative:lab2cap1\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|c:\\users\\usuario\\tecnologiasdedesarrollodesoftwareide_2024\\lab2cap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0BD8C8-4F18-4EC4-A495-602A3FC3A454}|Lab2Cap1\\Lab2Cap1.csproj|solutionrelative:lab2cap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEC3A8-1077-4025-952E-15063CF4792B}|Lab1Cap1\\Lab1Cap1.csproj|c:\\users\\usuario\\tecnologiasdedesarrollodesoftwareide_2024\\lab1cap1\\lab1cap1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31AEC3A8-1077-4025-952E-15063CF4792B}|Lab1Cap1\\Lab1Cap1.csproj|solutionrelative:lab1cap1\\lab1cap1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab2Cap1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab2Cap1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T16:01:13.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "Lab2Cap1\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "Lab2Cap1\\Controllers\\AlumnoController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAYwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:12:02.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Lab2Cap1\\Context\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "Lab2Cap1\\Context\\MyDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:07:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "Lab2Cap1\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Models\\Alumno.cs",
+              "RelativeToolTip": "Lab2Cap1\\Models\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:04:32.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2Cap1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab2Cap1\\Program.cs",
+              "RelativeToolTip": "Lab2Cap1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T23:59:29.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab1Cap1.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab1Cap1\\Lab1Cap1.csproj",
+              "RelativeDocumentMoniker": "Lab1Cap1\\Lab1Cap1.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\TecnologiasDeDesarrolloDeSoftwareIDE_2024\\Lab1Cap1\\Lab1Cap1.csproj",
+              "RelativeToolTip": "Lab1Cap1\\Lab1Cap1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T21:28:47.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

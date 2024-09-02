@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\bin\Debug\net8.0\Entidades.dll
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\Usuario\source\repos\Unidad6Lab3\Negocio\obj\Debug\net8.0\ref\Negocio.dll

@@ -1,0 +1,118 @@
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\C1Lab1.exe
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\C1Lab1.deps.json
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\C1Lab1.runtimeconfig.json
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\C1Lab1.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\C1Lab1.pdb
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.csproj.AssemblyReference.cache
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.AssemblyInfoInputs.cache
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.AssemblyInfo.cs
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.csproj.CoreCompileInputs.cache
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.sourcelink.json
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.csproj.Up2Date
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\refint\C1Lab1.dll
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.pdb
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\C1Lab1.genruntimeconfig.cache
+C:\Users\bruni\Documents\Visual Studio 2022\Proyectos\Unidad3\Unidad 6\C1Lab1\obj\Debug\net8.0\ref\C1Lab1.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\C1Lab1.exe
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\C1Lab1.deps.json
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\C1Lab1.runtimeconfig.json
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\C1Lab1.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\C1Lab1.pdb
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.csproj.AssemblyReference.cache
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.AssemblyInfoInputs.cache
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.AssemblyInfo.cs
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.sourcelink.json
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.csproj.Up2Date
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\refint\C1Lab1.dll
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.pdb
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\C1Lab1.genruntimeconfig.cache
+C:\Users\Usuario\TecnologiasDeDesarrolloDeSoftwareIDE_2024\C1Lab1\obj\Debug\net8.0\ref\C1Lab1.dll
